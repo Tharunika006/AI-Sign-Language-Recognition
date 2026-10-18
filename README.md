@@ -144,3 +144,8 @@ AI-Sign-Language-Recognition/
 
 └── .gitignore
 
+## Project Demo
+
+### Real-Time Sign Language Recognition
+
+![Project Screenshot](project_screenshot.png/Screenshot%202026-10-18%20101735.png)
